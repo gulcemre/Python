@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="558d76e2-3864-460e-8fa4-4fed6214a853" name="Default Changelist" comment="" />
+    <list default="true" id="f640f7e1-0133-4cfc-8442-792ff8cfaf5a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +15,23 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1OvWTDv5G4uybLG0rvaGFnc1LS5" />
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Emre\PycharmProjects\Kodlama Egzersizleri\Ödevler\1. Ödev" />
-    </key>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1OzhSPistZR23nDiMLEhPIBYpfx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,20 +45,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem6">
-    <configuration name="Problem2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Kodlama Egzersizleri" />
+  <component name="RunManager" selected="Python.Problem5">
+    <configuration name="Problem1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ödevler/1. Ödev" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Odev1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ödevler/1. Ödev/Problem2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Odev1/Problem1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Problem2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Odev1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Odev1/Problem2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -56,39 +89,18 @@
       <method v="2" />
     </configuration>
     <configuration name="Problem3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Kodlama Egzersizleri" />
+      <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ödevler/1. Ödev" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Odev1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ödevler/1. Ödev/Problem3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Kodlama Egzersizleri" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ödevler/1. Ödev" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ödevler/1. Ödev/Problem4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Odev1/Problem3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,39 +110,18 @@
       <method v="2" />
     </configuration>
     <configuration name="Problem5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Kodlama Egzersizleri" />
+      <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ödevler/1. Ödev" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Odev1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ödevler/1. Ödev/Problem5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Kodlama Egzersizleri" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ödevler/1. Ödev" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ödevler/1. Ödev/Problem6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Odev1/Problem5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +132,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Problem6" />
         <item itemvalue="Python.Problem5" />
-        <item itemvalue="Python.Problem4" />
         <item itemvalue="Python.Problem3" />
         <item itemvalue="Python.Problem2" />
+        <item itemvalue="Python.Problem1" />
       </list>
     </recent_temporary>
   </component>
@@ -154,12 +144,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="558d76e2-3864-460e-8fa4-4fed6214a853" name="Default Changelist" comment="" />
-      <created>1564858556236</created>
+      <changelist id="f640f7e1-0133-4cfc-8442-792ff8cfaf5a" name="Default Changelist" comment="" />
+      <created>1564986331541</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564858556236</updated>
+      <updated>1564986331541</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

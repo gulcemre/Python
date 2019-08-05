@@ -5,3 +5,5 @@ c = int(input("c:"))
 Toplam = a*b*c
 print("İşlem Yapılıyor...")
 print("Toplam: {}\n".format(Toplam))
+
+
